@@ -1,26 +1,34 @@
 {
   "name": "diversemix",
-  "version": "0.0.1",
-  "description": "Productivity tool - diverse mix of functionality",
+  "version": "0.0.3",
+  "description": "A developer's productivity tool.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-      "@diversemix/diversemix": "bin/diversemix",
-      "diversemix": "bin/diversemix"
+    "@diversemix/diversemix": "bin/diversemix",
+    "diversemix": "bin/diversemix"
   },
   "publishConfig": {
-      "access": "public"
+    "access": "public"
   },
+  "files": [
+      "bin/",
+      "src/",
+      "templates/"
+  ],
   "keywords": [
-      "cli",
-      "diversemix",
-      "nodejs"
+    "cli",
+    "diversemix",
+    "productivity"
   ],
   "author": "diversemix",
   "license": "MIT",
   "dependencies": {
-    "esm": "^3.2.25"
+    "chalk": "^4.0.1",
+    "esm": "^3.2.25",
+    "inquirer": "^8.2.2",
+    "yargs": "^17.4.0"
   }
 }
