@@ -24,4 +24,4 @@ Built for neovim and shell-based simplicity for engineers with executive functio
 
 You can read more about what makes me tick as a software developer here
 
-> 📔 [blog.diversemix.com](blog.diversemix.com)
+> 📔 [blog.diversemix.com](https://blog.diversemix.com)
