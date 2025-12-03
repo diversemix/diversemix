@@ -20,7 +20,7 @@ Built for neovim and shell-based simplicity for engineers with executive functio
 
 ---
 
-### My Tech Stack
+### My Technical Proclivities
 
 You can read more about what makes me tick as a software developer here
 
